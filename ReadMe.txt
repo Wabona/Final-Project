@@ -1,6 +1,6 @@
 Group World Justice Returns!!!
   - Wabona Dandi
-  - Jacyln Kim
+  - Jaclyn Kim
   - Ryan Armendariz-Lopez
   
 Which Neighborhood are you least likely to die in?
