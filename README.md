@@ -1,7 +1,7 @@
 # README
 
 ### Group World Justice Returns!!!
-  - Wabona Dandi
+  - Wabona Dandi (wad16@pitt.edu)
   - Jaclyn Kim
   - Ryan Armendariz-Lopez
   
