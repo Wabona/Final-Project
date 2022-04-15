@@ -1,13 +1,11 @@
 # README
 
-### Group World Justice Returns!!!
+### Group World Justice Returns!
   - Wabona Dandi
   - Jaclyn Kim
   - Ryan Armendariz-Lopez
-  
-#### Which Neighborhood are you least likely to die in?
-  - Hospitals
-  - Fires
-  - Fatal Crimes
-  - Water Toxicity(?)
-  - Car Accidents(?)
+### Purpose
+#### We pulled data to see which neighborhood you would be most likely to die in. We included:
+* Distance from each neighborhoood to the nearest hospital and firehouse
+* Number of fires in each neighborhood
+* Number of Fatal Crimes in each neighborhood
