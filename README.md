@@ -8,4 +8,3 @@
 * Distance from each neighborhoood to the nearest hospital and firehouse
 * Number of fires in each neighborhood
 * Number of fatal crimes in each neighborhood
-#### to determine our metric
